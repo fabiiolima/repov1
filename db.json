@@ -1,1 +1,1 @@
-{"data": [{"Cliente": "Elev", "Token": "babababababababab"}, {"Cliente": "Facebook", "Token": "lalalalalalalalla"}, {"Cliente": "Google", "Token": "tatatatatatatatat"}, {"Cliente": "Microsoft", "Token": "papapapapapapa"}]}
+{"data": [{"Cliente": "Elev", "Razao": "Elev Tecnologia","Token": "babababababababab"}, {"Cliente": "Facebook", "Razao":"Meta", "Token": "lalalalalalalalla"}, {"Cliente": "Google", "Razao":"PaiDosBurros" , "Token": "tatatatatatatatat"}, {"Cliente": "Microsoft", "Token": "papapapapapapa"}]}
